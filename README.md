@@ -1,6 +1,6 @@
 # Academy-Journel-
 
-GENERAL:
+GENERAL GOALS:
 Have a open mind about everything to come.
 Accept the level i am at to begin with, so dont expect to know or learn everything all at once.
 Set out acheivable goals by reviewing my progress with what i am learning and doing on a weekly basis.
