@@ -1,4 +1,4 @@
-# Academy-Journel-
+# Academy-Journel
 
 GENERAL:
 Have a open mind about everything to come.
